@@ -1,0 +1,6 @@
+﻿productName	quantityInStock
+1958 Chevy Corvette Limited Edition	2542
+1982 Lamborghini Diablo	7723
+1938 Cadillac V-16 Presidential Limousine	2847
+1936 Mercedes Benz 500k Roadster	2081
+1939 Chevrolet Deluxe Coupe	7332

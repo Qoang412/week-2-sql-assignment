@@ -1,0 +1,18 @@
+﻿firstName	lastName	email
+Martin	Gerard	mgerard@classicmodelcars.com
+Yoshimi	Kato	ykato@classicmodelcars.com
+Mami	Nishi	mnishi@classicmodelcars.com
+Tom	King	tking@classicmodelcars.com
+Peter	Marsh	pmarsh@classicmodelcars.com
+Andy	Fixter	afixter@classicmodelcars.com
+Barry	Jones	bjones@classicmodelcars.com
+Larry	Bott	lbott@classicmodelcars.com
+Pamela	Castillo	pcastillo@classicmodelcars.com
+Gerard	Hernandez	ghernande@classicmodelcars.com
+Loui	Bondur	lbondur@classicmodelcars.com
+George	Vanauf	gvanauf@classicmodelcars.com
+Foon Yue	Tseng	ftseng@classicmodelcars.com
+Steve	Patterson	spatterson@classicmodelcars.com
+Julie	Firrelli	jfirrelli@classicmodelcars.com
+Leslie	Thompson	lthompson@classicmodelcars.com
+Leslie	Jennings	ljennings@classicmodelcars.com
